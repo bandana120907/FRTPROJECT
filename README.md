@@ -55,6 +55,7 @@ Options:
 - `create network watcher`: Create a network watcher.
 - `get packet capture`: Retrieve packet capture details.
 - `delete packet capture`: Delete a packet capture.
+- `graph`: Create a graph for the number of packet captures over a virtual network against time
 
 ## Examples
 
