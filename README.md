@@ -3,6 +3,27 @@
 
 This tool allows you to perform various operations related to Azure network monitoring using the Azure SDK for Python. It leverages Azure Identity and Azure Resource and Network Management libraries to interact with Azure services.
 
+## Azure Services Usage
+
+This tool utilizes several Azure services to streamline Azure networking management:
+
+### 1. Azure Identity
+
+The script uses [Azure Identity](https://docs.microsoft.com/en-us/python/api/azure-identity/) to handle secure authentication to Azure services. This ensures that the interactions with Azure resources are authenticated securely.
+
+### 2. Azure Resource Management
+
+[Azure Resource Management](https://docs.microsoft.com/en-us/python/azure/python-sdk-azure-resource?view=azure-python) is employed to manage Azure resources programmatically. The script leverages this library to create and manage Azure resources such as virtual networks and network watchers.
+
+### 3. Azure Network Management
+
+The [Azure Network Management](https://docs.microsoft.com/en-us/python/api/azure-mgmt-network/azure.mgmt.network?view=azure-python) library facilitates the configuration and monitoring of Azure network components. The tool uses this library to create virtual networks, establish network watchers, and manage packet capture activities.
+
+### 4. Matplotlib
+
+[Matplotlib](https://matplotlib.org/) is a widely used plotting library in Python. It plays a crucial role in the project by enabling the generation of dynamic graphs that visually represent the number of packet captures over time. This feature enhances user comprehension and aids in performance analysis, security insights, and capacity planning.
+
+
 ## Prerequisites
 
 Before using this tool, make sure you have the following prerequisites installed:
