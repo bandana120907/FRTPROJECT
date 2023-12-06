@@ -19,6 +19,10 @@ The script uses [Azure Identity](https://docs.microsoft.com/en-us/python/api/azu
 
 The [Azure Network Management](https://docs.microsoft.com/en-us/python/api/azure-mgmt-network/azure.mgmt.network?view=azure-python) library facilitates the configuration and monitoring of Azure network components. The tool uses this library to create virtual networks, establish network watchers, and manage packet capture activities.
 
+### 4. Azure Functions App
+
+To enhance the accessibility of the Azure Networking Tool, we've integrated it with Azure Functions, providing a serverless environment for executing your functions. The Functions App is designed to respond to HTTP requests, making it easy to trigger specific functionalities.
+
 ### 4. Matplotlib
 
 [Matplotlib](https://matplotlib.org/) is a widely used plotting library in Python. It plays a crucial role in the project by enabling the generation of dynamic graphs that visually represent the number of packet captures over time. This feature enhances user comprehension and aids in performance analysis, security insights, and capacity planning.
