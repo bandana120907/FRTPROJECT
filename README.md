@@ -3,6 +3,8 @@
 
 This tool allows you to perform various operations related to Azure network monitoring using the Azure SDK for Python. It leverages Azure Identity and Azure Resource and Network Management libraries to interact with Azure services.
 
+<img width="1710" alt="Screenshot 2023-12-20 at 2 59 42 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/955ca440-96ab-4bc9-a456-55ee4a3de558">
+
 ## Azure Services Usage
 
 This tool utilizes several Azure services to streamline Azure networking management:
@@ -48,18 +50,26 @@ Before running the tool, make sure to set the following configuration parameters
 ## Features
 
 ### 1. **Create Virtual Network**
+<img width="1710" alt="Screenshot 2023-12-20 at 3 01 01 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/8f203128-1431-4a28-a18f-9eefba025ddd">
+
 Effortlessly create a virtual network with a specified name and IP range. This feature streamlines the process of establishing the foundation for your Azure network architecture.
 
 ### 2. **Create Network Watcher**
+![Uploading Screenshot 2023-12-20 at 3.11.46 PM.png…]()
+
 Establish a network watcher with a user-defined name, providing a crucial component for monitoring and diagnosing network issues in your Azure environment.
 
 ### 3. **Get Packet Capture**
+<img width="1710" alt="Screenshot 2023-12-20 at 3 06 25 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/ccc2ecbe-4703-4a30-a4e6-e70d39d52823">
+
 Retrieve detailed information about packet captures, including their start time. This feature is invaluable for analyzing network traffic patterns and identifying potential issues.
 
 ### 4. **Delete Packet Capture**
 Enhance control over your network monitoring data by selectively deleting packet captures. This function ensures efficient data management and compliance with your organization's policies.
 
 ### 5. **Generate Graph**
+<img width="1710" alt="Screenshot 2023-12-20 at 3 08 29 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/9fc17d3b-3fd6-477f-b84a-1108f5dbe842">
+
 Unleash the power of data visualization with the graph feature. This dynamically generated graph showcases the number of packet captures over time. Real-life implications of this feature include:
 
 - **Performance Analysis:** Understand how network activity fluctuates over time, enabling proactive performance optimization.
