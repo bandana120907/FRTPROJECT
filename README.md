@@ -23,7 +23,7 @@ The [Azure Network Management](https://docs.microsoft.com/en-us/python/api/azure
 
 ### 4. Azure Functions App
 
-To enhance the accessibility of the Azure Networking Tool, we've integrated it with Azure Functions, providing a serverless environment for executing your functions. The Functions App is designed to respond to HTTP requests, making it easy to trigger specific functionalities.
+To enhance the accessibility of the Azure Networking Tool, we've integrated it with Azure Functions.
 
 ### 4. Matplotlib
 
