@@ -55,7 +55,8 @@ Before running the tool, make sure to set the following configuration parameters
 Effortlessly create a virtual network with a specified name and IP range. This feature streamlines the process of establishing the foundation for your Azure network architecture.
 
 ### 2. **Create Network Watcher**
-![Uploading Screenshot 2023-12-20 at 3.11.46 PM.png…]()
+<img width="1710" alt="Screenshot 2023-12-20 at 3 11 46 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/2dcf8e39-c1e0-45e4-b051-c91a216cd9bc">
+
 
 Establish a network watcher with a user-defined name, providing a crucial component for monitoring and diagnosing network issues in your Azure environment.
 
