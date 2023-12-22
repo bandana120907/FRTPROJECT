@@ -1,7 +1,7 @@
 
 # Azure Network Monitoring Tool
 
-This tool allows you to perform various operations related to Azure network monitoring using the Azure SDK for Python. It leverages Azure Identity and Azure Resource and Network Management libraries to interact with Azure services.
+This tool allows you to perform various operations related to Azure network monitoring using the Azure SDK for Python. It leverages Azure Identity and Azure Resource and Network Management libraries to interact with Azure services. A Microsoft Azure Functons App has been created to explain its features briefly and redirect to this tool's Github Repository.
 
 <img width="1710" alt="Screenshot 2023-12-20 at 2 59 42 PM" src="https://github.com/bandana120907/FRTPROJECT/assets/92863250/955ca440-96ab-4bc9-a456-55ee4a3de558">
 
